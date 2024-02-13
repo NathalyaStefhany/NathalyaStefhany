@@ -1,5 +1,3 @@
-## Oiii, eu sou a Nathalya Stefhany!
-
 <div align="center">
   <a href="https://github.com/NathalyaStefhany" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathalyaStefhany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
