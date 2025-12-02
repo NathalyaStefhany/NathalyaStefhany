@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Nathalya!
 
-Desenvolvedora front-end apaixonada por criar experiências digitais acessíveis, performáticas e bem pensadas. Atualmente trabalho na 4intelligence e estou sempre em busca de novos aprendizados — do front ao back, passando por Design, DevOps e IA.
+Desenvolvedora front-end apaixonada por criar experiências digitais acessíveis, performáticas e bem pensadas. Atualmente trabalho na Magalu Cloud e estou sempre em busca de novos aprendizados — do front ao back, passando por Design, DevOps e IA.
 
 ### 📚 Em aprendizado contínuo
 
